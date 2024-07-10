@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">DAM_UC4_LUQUE</string>
     <string name="btn_entrar">ENTRAR</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi perfil</string>
 </resources>
